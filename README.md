@@ -9,7 +9,7 @@ Saran diberikan peninjau:
 Supaya aplikasimu menjadi lebih baik lagi, berikut beberapa catatan terkait submission kamu:
 
 Agar lebih menarik lagi, kamu dapat menambahkan custom dialog saat menghapus buku dengan library seperti SweetAlert2. Kamu bisa 
-membaca dokumentasinya pada https://sweetalert2.github.io/
+membaca dokumentasinya pada sweetalert2.github. io
 
 Beberapa tombol aksi seperti "Delete" dan sebagainya bisa di 
 transformasikan ke icon agar lebih menarik. 
